@@ -1,6 +1,6 @@
 # Heart Disease Prediction — Machine Learning Coursework
 
-This ML project done in juptyer notebook using python has a corresponding detailed presentation to go with it.The presentation contains more appealing and detailed visuals & much needed context. Please inquire if interested. 
+This ML project done in juptyer notebook using python has a corresponding detailed presentation to go with it. The presentation contains more appealing and detailed visuals & much needed context. Please inquire if interested. 
 
 Note: I'm leaving out specifics / information so that this repository isn't easily discovered by future students and used for plagirism.
 
